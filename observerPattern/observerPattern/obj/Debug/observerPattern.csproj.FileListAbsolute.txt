@@ -1,0 +1,8 @@
+D:\GitProject\designpattern\observerPattern\observerPattern\bin\Debug\observerPattern.exe.config
+D:\GitProject\designpattern\observerPattern\observerPattern\bin\Debug\observerPattern.exe
+D:\GitProject\designpattern\observerPattern\observerPattern\bin\Debug\observerPattern.pdb
+D:\GitProject\designpattern\observerPattern\observerPattern\obj\Debug\observerPattern.exe
+D:\GitProject\designpattern\observerPattern\observerPattern\obj\Debug\observerPattern.pdb
+D:\GitProject\designpattern\observerPattern\observerPattern\bin\Debug\EntityFramework.dll
+D:\GitProject\designpattern\observerPattern\observerPattern\bin\Debug\EntityFramework.xml
+D:\GitProject\designpattern\observerPattern\observerPattern\bin\Debug\zh-Hans\EntityFramework.resources.dll
