@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace observerPattern
+namespace observerPatternEvent
 {
     public class Cat : Subject
     {
@@ -15,13 +15,5 @@ namespace observerPattern
             Console.WriteLine(this.Name + "信息:" + this.Message);
         }
 
-        public override void Change(string message)
-        {
-            this.Message = message;
-            foreach (var o in this.ObserverCollecion)
-            {
-                o.Display();
-            }
-        }
     }
 }

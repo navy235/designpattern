@@ -33,7 +33,7 @@ namespace observerPattern
             this.ObserverCollecion.Remove(observer);
         }
 
-        public void Change()
+        public virtual void Change(string message)
         {
             throw new System.NotImplementedException();
         }
